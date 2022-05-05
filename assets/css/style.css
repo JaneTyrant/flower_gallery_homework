@@ -15,3 +15,27 @@ body {
     border: 5px solid blanchedalmond;
     border-radius: 50%;
 }
+
+.main-section {
+    width: 80%;
+    margin: auto;
+}
+
+.main-section-image {
+    width: 250px;
+    height: 250px;
+    padding: 10px;
+    margin: 20px;
+    border: 5px solid cadetblue;
+}
+
+.little-section-image,
+.main-section-image {
+    box-sizing: border-box;
+
+    object-fit: cover;
+}
+
+.right-position {
+    object-position: right;
+}
