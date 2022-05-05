@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    background-color: rgb(236, 205, 171);
+}
+
+.little-section,
+.main-section {
+    text-align: center;
+}
+
+.little-section-image {
+    width: 200px;
+    height: 200px;
+    margin: 40px;
+    border: 5px solid blanchedalmond;
+    border-radius: 50%;
+}
